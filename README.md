@@ -1,6 +1,8 @@
 # MailerLite API v2 PHP SDK
 
-It is an official PHP SDK for MailerLite API v2.
+### It is a fork of official PHP SDK for MailerLite API v2.
+
+> Just added support for `PHP 8` to `composer.json`.
 
 You can find more examples and information about MailerLite API v2 here: [https://developers.mailerlite.com](https://developers.mailerlite.com)
 
